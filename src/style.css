@@ -40,6 +40,11 @@ height: 30px;
   width: 100px;
   height: 25px;
   }
-.tittle2{
+
+.tittle2 {
   align-content: center;
+}
+
+.ilast {
+  white-space: pre;
 }
